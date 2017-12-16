@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg5481"
+   height="117.43832mm"
+   width="128.7934mm"
+   version="1.0"
+   viewBox="0 0 730.16727 665.79202">
+  <metadata
+     id="metadata5485">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5229">
+    <pattern
+       xlink:href="#EMFimage0_ref"
+       id="pattern5936"
+       patternTransform="translate(10.314638,-2.4575591)" />
+    <pattern
+       xlink:href="#EMFimage0_ref"
+       id="pattern5934"
+       patternTransform="translate(-13.810623,-2.4575591)" />
+    <pattern
+       xlink:href="#EMFimage1_ref"
+       id="pattern5932"
+       patternTransform="translate(-2.4575591,-2.4575591)" />
+    <pattern
+       xlink:href="#EMFimage0_ref"
+       id="pattern5930"
+       patternTransform="translate(-2.4575591,-2.4575591)" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAF0lEQVQImWNgYGD4//8/FhK7KAQMPh0AXXNfoZnuFWQAAAAASUVORK5CYII="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0_ref">
+      <use
+         xlink:href="#EMFimage0"
+         id="EMFimage0_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAHElEQVQImWP4//8/AwMDJsmAVfT///84RAdYBwBdc1+hYlK73QAAAABJRU5ErkJggg=="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1_ref">
+      <use
+         xlink:href="#EMFimage1"
+         id="EMFimage1_ign" />
+    </pattern>
+    <pattern
+       xlink:href="#EMFimage0_ref-6"
+       id="pattern5930-0"
+       patternTransform="translate(-282.09814,306.72448)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0_ref-6">
+      <use
+         xlink:href="#EMFimage0"
+         id="EMFimage0_ign-7" />
+    </pattern>
+  </defs>
+  <text
+     id="text5265"
+     y="33.627953"
+     x="73.783638"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;line-height:123.18621874%;font-family:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5259"
+       y="33.627953"
+       x="73.783638"><tspan
+         id="tspan5253"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">LwM</tspan><tspan
+         id="tspan5255"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">2</tspan><tspan
+         id="tspan5257"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">M</tspan></tspan><tspan
+       id="tspan5263"
+       y="54.954563"
+       x="73.726295"><tspan
+         id="tspan5261"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Client</tspan></tspan></text>
+  <path
+     id="path5293"
+     d="M 594.05157,76.390698 H 721.3448 c 4.41527,0 7.99748,-3.582205 7.99748,-7.99748 0,0 0,0 0,0 V 9.0785721 c 0,-4.4152755 -3.58221,-7.9974802 -7.99748,-7.9974802 v 0 H 594.05157 c -4.41528,0 -7.99748,3.5822047 -7.99748,7.9974802 v 0 59.3146459 c 0,4.415275 3.5822,7.99748 7.99748,7.99748"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text5307"
+     y="22.407705"
+     x="687.82495"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;line-height:123.18621874%;font-family:Calibri;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5301"
+       y="22.407705"
+       x="687.82495"><tspan
+         id="tspan5295"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">LwM</tspan><tspan
+         id="tspan5297"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">2</tspan><tspan
+         id="tspan5299"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">M</tspan></tspan><tspan
+       id="tspan5305"
+       y="43.734322"
+       x="691.92944"><tspan
+         id="tspan5303"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Bootstrap</tspan></tspan></text>
+  <text
+     id="text5313"
+     y="65.060936"
+     x="634.03894"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5311"
+       y="65.060936"
+       x="634.03894"><tspan
+         id="tspan5309"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Server</tspan></tspan></text>
+  <path
+     id="path5321"
+     d="M 74.215354,76.390698 V 664.95526"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5329"
+     d="M 657.69818,76.390698 V 664.95526"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5331"
+     d="M 74.215354,148.36802 H 646.86826"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5333"
+     d="m 657.69818,148.36802 -14.24551,7.16441 c 2.24929,-4.49859 2.24929,-9.83024 0,-14.32882 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <text
+     id="text5353"
+     y="122.37621"
+     x="235.49786"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5351"
+       y="122.37621"
+       x="235.49786"><tspan
+         id="tspan5335"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">POST </tspan><tspan
+         id="tspan5337"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5339"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">bs</tspan><tspan
+         id="tspan5341"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">? </tspan><tspan
+         id="tspan5343"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Ep</tspan><tspan
+         id="tspan5345"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">=</tspan><tspan
+         id="tspan5347"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">node</tspan><tspan
+         id="tspan5349"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">34141</tspan></tspan></text>
+  <path
+     id="path5355"
+     d="M 657.69818,208.34912 H 85.045276"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5357"
+     d="m 74.215354,208.34912 14.328819,-7.16441 c -2.249291,4.49858 -2.249291,9.83024 0,14.32882 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5359"
+     d="M 657.69818,300.65337 H 85.045276"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5361"
+     d="m 74.215354,300.65337 14.328819,-7.16441 c -2.249291,4.49858 -2.249291,9.74693 0,14.24551 v 0 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5363"
+     d="M 657.69818,370.21479 H 85.045276"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5365"
+     d="m 74.215354,370.21479 14.328819,-7.16441 c -2.249291,4.49858 -2.249291,9.83023 0,14.32882 v 0 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5367"
+     d="M 657.69818,460.01983 H 85.045276"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5369"
+     d="m 74.215354,460.01983 14.328819,-7.16441 c -2.249291,4.49858 -2.249291,9.74693 0,14.24551 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <text
+     id="text5389"
+     y="191.6877"
+     x="365.81808"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:368.60816479%;font-family:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5381"
+       y="191.6877"
+       x="365.81808"><tspan
+         id="tspan5371"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">2</tspan><tspan
+         id="tspan5373"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">.</tspan><tspan
+         id="tspan5375"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">0</tspan><tspan
+         id="tspan5377"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">4 </tspan><tspan
+         id="tspan5379"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Changed</tspan></tspan><tspan
+       id="tspan5387"
+       y="284.99167"
+       x="365.67996"><tspan
+         id="tspan5383"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Delete </tspan><tspan
+         id="tspan5385"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan></tspan></text>
+  <text
+     id="text5403"
+     y="363.46112"
+     x="315.47269"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5401"
+       y="363.46112"
+       x="315.47269"><tspan
+         id="tspan5391"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">PUT </tspan><tspan
+         id="tspan5393"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5395"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">0</tspan><tspan
+         id="tspan5397"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5399"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">1</tspan></tspan></text>
+  <path
+     id="path5405"
+     d="M 656.28196,565.90313 H 83.629055"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5407"
+     d="m 72.799134,565.90313 14.328819,-7.16441 c -2.249292,4.49859 -2.249292,9.74693 0,14.24552 v 0 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <text
+     id="text5425"
+     y="408.95261"
+     x="365.29587"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:352.81066895%;font-family:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5415"
+       y="408.95261"
+       x="365.29587"><tspan
+         id="tspan5409"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">(</tspan><tspan
+         id="tspan5411"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Security Object Instance</tspan><tspan
+         id="tspan5413"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">)</tspan></tspan><tspan
+       id="tspan5423"
+       y="498.25778"
+       x="366.62878"><tspan
+         id="tspan5417"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">(</tspan><tspan
+         id="tspan5419"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Server Object Instance</tspan><tspan
+         id="tspan5421"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">)</tspan></tspan></text>
+  <text
+     id="text5439"
+     y="551.57428"
+     x="320.80435"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5437"
+       y="551.57428"
+       x="320.80435"><tspan
+         id="tspan5427"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">PUT </tspan><tspan
+         id="tspan5429"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5431"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">2</tspan><tspan
+         id="tspan5433"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5435"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">0</tspan></tspan></text>
+  <text
+     id="text5457"
+     y="584.89716"
+     x="360.63068"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:173.7724185%;font-family:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5447"
+       y="584.89716"
+       x="360.63068"><tspan
+         id="tspan5441"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">(</tspan><tspan
+         id="tspan5443"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">ACL Object Instance</tspan><tspan
+         id="tspan5445"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">)</tspan></tspan><tspan
+       id="tspan5455"
+       y="628.8833"
+       x="365.06021"><tspan
+         id="tspan5449"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">Post </tspan><tspan
+         id="tspan5451"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5453"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">bs</tspan></tspan></text>
+  <path
+     id="path5459"
+     d="M 657.69818,646.37778 H 84.378819"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5461"
+     d="m 74.215354,646.37778 13.412441,-6.66457 c -2.082677,4.24866 -2.082677,9.16378 0,13.41244 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     id="path5463"
+     d="m 370.12212,454.93809 v 14.24552"
+     style="fill:none;stroke:#000000;stroke-width:1.64999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path5465"
+     d="m 375.87031,467.68408 -5.74819,11.57968 -5.74819,-11.57968 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <text
+     id="text5479"
+     y="451.60583"
+     x="328.80182"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan5477"
+       y="451.60583"
+       x="328.80182"><tspan
+         id="tspan5467"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">PUT </tspan><tspan
+         id="tspan5469"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5471"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">1</tspan><tspan
+         id="tspan5473"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">/</tspan><tspan
+         id="tspan5475"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;font-family:Calibri;fill:#000000"
+         dy="0"
+         dx="0">0</tspan></tspan></text>
+  <path
+     id="path5293-0"
+     d="M 11.660746,76.13461 H 138.95398 c 4.41527,0 7.99748,-3.5822 7.99748,-7.99748 0,0 0,0 0,0 V 8.82249 c 0,-4.41528 -3.58221,-7.99749001 -7.99748,-7.99749001 v 0 H 11.660746 c -4.41528,0 -7.99748,3.58221001 -7.99748,7.99749001 v 0 59.31464 c 0,4.41528 3.5822,7.99748 7.99748,7.99748"
+     style="fill:none;stroke:#000000;stroke-width:1.64999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

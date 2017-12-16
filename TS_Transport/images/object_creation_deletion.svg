@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 584.50797 682.1504"
+   version="1.0"
+   width="128.87589mm"
+   height="150.40469mm"
+   id="svg7581">
+  <metadata
+     id="metadata7585">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7429">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0.66000003,7.0746456 c 0,-3.4988976 1.83275587,-6.41464557 4.08204717,-6.41464557 H 98.295907 c 2.249283,0 3.998733,2.91574797 3.998733,6.41464557 V 63.556851 c 0,3.498897 -1.74945,6.331338 -3.998733,6.331338 H 4.7420472 c -2.2492913,0 -4.08204717,-2.832441 -4.08204717,-6.331338 z"
+     id="path7433" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32207537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 55.082737,681.76986 51.370807,69.939058"
+     id="path7467" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32441187;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 535.7713,681.53165 535.12837,70.945057"
+     id="path7469" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 67.388977,559.48393 535.5748,560.81684"
+     id="path7475" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 69.30504,567.14818 -15.16189,-7.66425 15.16189,-7.58094 z"
+     id="path7477" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="241.25085"
+     y="538.49054"
+     id="text7491"><tspan
+       x="241.25085"
+       y="538.49054"
+       id="tspan7489"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7479">DELETE </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7481">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7483">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7485">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7487">3</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 521.99574,192.93275 H 52.14378"
+     id="path7493" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 520.07968,185.3518 15.16189,7.58095 -15.16189,7.66425 z"
+     id="path7495" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="177.27103"
+     y="171.93936"
+     id="text7515"><tspan
+       x="177.27103"
+       y="171.93936"
+       id="tspan7513"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7497">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7499">.</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7501">01 </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7503">Created Location</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7505">: /</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7507">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7509">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7511">3 </tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 522.41228,645.37354 54.559686,646.70645"
+     id="path7517" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 520.49621,637.79259 15.16189,7.49764 -15.16189,7.66425 z"
+     id="path7519" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="242.58377"
+     y="618.46539"
+     id="text7531"><tspan
+       x="242.58377"
+       y="618.46539"
+       id="tspan7529"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7521">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7523">.</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7525">02 </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7527">Deleted</tspan></tspan></text>
+  <g
+     id="g4964"
+     transform="translate(-0.13141727,-0.13141727)">
+    <path
+       id="path7533"
+       d="M 66.270788,326.60543 535.5396,325.27252"
+       style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path7535"
+       d="m 68.186851,334.18637 -15.16189,-7.58094 15.16189,-7.58095 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="262.57748"
+     y="305.23071"
+     id="text7545"><tspan
+       x="262.57748"
+       y="305.23071"
+       id="tspan7543"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7537">POST </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7539">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7541">2</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 522.16236,416.44566 H 53.393386"
+     id="path7547" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 520.24629,408.86472 15.2452,7.58094 -15.2452,7.58095 z"
+     id="path7549" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="177.27103"
+     y="394.53592"
+     id="text7569"><tspan
+       x="177.27103"
+       y="394.53592"
+       id="tspan7567"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7551">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7553">.</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7555">01 </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7557">Created Location</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7559">: /</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7561">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7563">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7565">4 </tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="258.57877"
+     y="98.629135"
+     id="text7579"><tspan
+       x="258.57877"
+       y="98.629135"
+       id="tspan7577"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7571">POST </tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7573">/</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:21.3125px;font-family:Arial;fill:#000000"
+         id="tspan7575">2</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;line-height:118.82864237%;font-family:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+     x="50.310314"
+     y="25.935678"
+     id="text7182"><tspan
+       style="stroke-width:0.80000001"
+       x="50.310314"
+       y="25.935678"
+       id="tspan7176"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7170">LwM</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7172">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7174">M</tspan></tspan><tspan
+       style="stroke-width:0.80000001"
+       x="50.310314"
+       y="46.195965"
+       id="tspan7180"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7178">Client</tspan></tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 482.21329,7.1858867 c 0,-3.498898 1.74945,-6.33133899 4.08205,-6.33133899 h 93.47055 c 2.24929,0 4.08204,2.83244099 4.08204,6.33133899 V 63.751399 c 0,3.498897 -1.83275,6.331338 -4.08204,6.331338 h -93.47055 c -2.3326,0 -4.08205,-2.832441 -4.08205,-6.331338 z"
+     id="path7451" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;line-height:118.82864237%;font-family:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+     x="533.86731"
+     y="28.832857"
+     id="text7182-1"><tspan
+       style="stroke-width:0.80000001"
+       x="533.86731"
+       y="28.832857"
+       id="tspan7176-6"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7170-2">LwM</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7172-4">2</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7174-8">M</tspan></tspan><tspan
+       style="stroke-width:0.80000001"
+       x="533.86731"
+       y="49.09314"
+       id="tspan7180-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:700;font-size:17.04999924px;font-family:Arial;fill:#000000;stroke-width:0.80000001"
+         id="tspan7178-6">Server</tspan></tspan></text>
+  <g
+     id="g4990"
+     transform="translate(-0.13141727,-9.4157122)">
+    <g
+       id="g4964-3"
+       transform="translate(-1.249607,-209.51732)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.32000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 66.270788,326.60543 535.5396,325.27252"
+         id="path7533-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 68.186851,334.18637 -15.16189,-7.58094 15.16189,-7.58095 z"
+         id="path7535-4" />
+    </g>
+  </g>
+</svg>
